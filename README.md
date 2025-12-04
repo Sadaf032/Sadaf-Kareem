@@ -16,6 +16,9 @@ A passionate Software Engineer from Sindh, Pakistan — dedicated to learning, b
   <a href="YOUR_INSTAGRAM_LINK">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="YOUR_YOUTUBE_LINK">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -36,4 +39,5 @@ A passionate Software Engineer from Sindh, Pakistan — dedicated to learning, b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
 
