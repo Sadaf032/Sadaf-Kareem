@@ -30,13 +30,17 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadafkareem&show_icons=true&theme=midnight-purple" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafkareem&theme=midnight-purple" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadafkareem&show_icons=true&theme=midnight-purple&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafkareem&layout=compact&theme=midnight-purple" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=sadafkareem&theme=midnight-purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafkareem&layout=compact&theme=midnight-purple" />
 </p>
 
 ---
@@ -44,4 +48,3 @@
 <p align="center">
 🌱 Always learning, coding, and sharing projects to grow as a software engineer ✨
 </p>
-
