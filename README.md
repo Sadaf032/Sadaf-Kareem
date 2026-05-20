@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats (FIXED)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?Sadaf032E&show_icons=true&theme=midnight-purple&hide_border=true" height="170"/>
