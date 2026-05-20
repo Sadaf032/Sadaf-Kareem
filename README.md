@@ -1,47 +1,65 @@
-<h2 align="center">Sadaf Kareem</h2>
+# Hi 👋, I'm Sadaf Kareem
 
-<p align="center">
-💻 Software Engineering Student | Sindh, Pakistan <br>
-🚀 Passionate about building clean, efficient code and exploring innovative technologies.
+### 🤖 Software Engineering Student | Exploring Agentic AI & Intelligent Systems
+
+💡 Passionate about building AI-driven solutions, automation workflows, and modern web applications.  
+🚀 Currently learning and experimenting with Agentic AI, Prompt Engineering, and Full Stack Development.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/your-linkedin-id" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sadafkareem@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/your-instagram-id" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sadafkareem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram-id">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+## 🧠 Current Focus
+
+- 🤖 Agentic AI  
+- 🧩 AI Automation & Workflows  
+- 💬 Prompt Engineering  
+- 🌐 Full Stack Web Development  
+- 📚 Continuous Learning & Building Projects  
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,nodejs,bootstrap,figma,git,github,vscode,mysql" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,bootstrap,react,nodejs,figma" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadafkareem&show_icons=true&theme=midnight-purple" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafkareem&theme=midnight-purple" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafkareem&layout=compact&theme=midnight-purple" height="170"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadafkareem&show_icons=true&theme=midnight-purple" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadafkareem&theme=midnight-purple" height="150"/>
-</p>
+## ✨ Quote
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadafkareem&layout=compact&theme=midnight-purple" height="150"/>
-</p>
+> “Code, Creativity, and AI together can build the future.”
 
 ---
-
-<p align="center">
-🌱 Always learning, coding, and sharing projects to grow as a software engineer ✨
-</p>
-
+⭐ Always learning, building, and growing as a future AI Engineer.
