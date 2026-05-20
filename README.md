@@ -1,17 +1,74 @@
-<!-- HERO HEADER -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Sadaf%20Kareem&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=210&section=header&text=Sadaf%20Kareem&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🤖 Software Engineering Student | Agentic AI Builder</h3>
+<h3 align="center">🤖 Agentic AI Developer | Software Engineering Student</h3>
 
 <p align="center">
-Building intelligent systems, AI agents & automation workflows that solve real-world problems 🚀
+Designing intelligent systems, AI agents & automation workflows for real-world impact.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 PROFILE SUMMARY
+
+I am a Software Engineering student focused on building **Agentic AI systems, intelligent automation tools, and scalable web applications**.  
+My goal is to become an **AI Engineer / AI Architect** working on real-world AI solutions.
+
+---
+
+## 🧠 CORE EXPERTISE
+
+- 🤖 Agentic AI Systems Design  
+- ⚙️ AI Automation & Workflow Engineering  
+- 💬 Prompt Engineering & LLM Applications  
+- 🌐 Full Stack Web Development  
+- 🔐 Security-focused System Design (CISO Tracker)
+
+---
+
+## 🚀 FEATURED PROJECT
+
+### 🔐 CISO Tracker
+Smart system designed for:
+- Security workflow automation  
+- Data tracking & analysis  
+- Structured reporting system  
+- Scalable system architecture  
+
+---
+
+## 🛠️ TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,nodejs,bootstrap,figma,git,github,vscode,mysql" />
+</p>
+
+---
+
+## 📊 GITHUB PERFORMANCE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf032&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 ACTIVITY INSIGHTS
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaf032&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-id">
@@ -29,77 +86,25 @@ Building intelligent systems, AI agents & automation workflows that solve real-w
 
 ---
 
-## 🧠 About Me
+## 🎯 CAREER GOALS
 
-- 🎓 Software Engineering Student  
-- 🤖 Focused on **Agentic AI & Autonomous Systems**  
-- ⚙️ AI Automation & Workflow Design  
-- 🌐 Full Stack Web Development  
-- 🔐 Building **CISO Tracker (Security Intelligence System)**  
-
----
-
-## 🚀 Featured Project
-
-### 🔐 CISO Tracker
-An intelligent security tracking system designed for workflow automation, monitoring, and analytics using structured data and smart logic.
+- 🚀 Become AI Engineer / AI Architect  
+- 🤖 Build production-level Agentic AI systems  
+- 🌍 Contribute to open-source AI projects  
+- ⚙️ Work on scalable intelligent systems  
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 PHILOSOPHY
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,nodejs,bootstrap,figma,git,github,vscode,mysql" />
+<i>"I build systems that think, decide, and act intelligently in the real world."</i>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 👁️ Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✨ Quote
-
-> “I build AI systems that don’t just compute — they think, decide, and act.”
-
----
-
-<p align="center">
-⭐ Always learning, building, and evolving in the world of AI
+⭐ Thank you for visiting my profile
 </p>
 
 <!-- FOOTER -->
