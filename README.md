@@ -1,107 +1,56 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1d4ed8,100:2563eb&text=Sadaf%20Kareem&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:3B82F6&text=Sadaf%20Kareem&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h2 align="center">🤖 AI Engineer in Progress | Software Engineering Student | Full Stack Developer</h2>
+<h1 align="center">Hi 👋, I'm Sadaf Kareem</h1>
+
+<h3 align="center">
+AI Engineer in Progress • Full Stack Developer • Software Engineering Student
+</h3>
 
 <p align="center">
-Building AI-powered applications, intelligent automation systems, and scalable web solutions.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadaf032&label=Profile%20Views&color=2563eb&style=flat"/>
-  <img src="https://img.shields.io/github/followers/Sadaf032?style=flat&logo=github"/>
-  <img src="https://img.shields.io/github/stars/Sadaf032?style=flat&logo=github"/>
+I build intelligent software, AI-powered applications, and scalable web solutions.
 </p>
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
-Hi, I'm **Sadaf Kareem**.
+I'm **Sadaf Kareem**, an undergraduate **Software Engineering** student at **Mehran University of Engineering & Technology (MUET), Jamshoro**, with an expected graduation year of **2028**.
 
-I'm an undergraduate **Software Engineering** student passionate about Artificial Intelligence, Full Stack Development, and intelligent software systems.
+My passion lies at the intersection of **Artificial Intelligence** and **Software Engineering**, where I enjoy designing intelligent systems that solve real-world problems.
 
-I enjoy solving real-world problems by building applications that combine modern web technologies with AI automation.
+I'm currently exploring **Agentic AI**, **Large Language Models (LLMs)**, intelligent automation, and modern **Full Stack Development** while continuously improving my software engineering skills.
 
-My goal is to become an **AI Engineer / AI Architect**, creating intelligent systems that can reason, automate, and assist people efficiently.
+I believe in building software that is not only functional but also intelligent, scalable, and impactful.
 
 ---
 
 # 🎓 Education
 
-🎓 **Bachelor of Software Engineering (BSSE)**
+### Bachelor of Software Engineering (BSSE)
 
-🏫 Mehran University of Engineering & Technology (MUET), Jamshoro
+**Mehran University of Engineering & Technology (MUET), Jamshoro**
 
-📅 Undergraduate Student
+📍 Undergraduate Student
 
-🎯 Expected Graduation: **2028**
-
-Current areas of study include:
-
-- Software Engineering
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Systems
-- Web Technologies
-- Software Architecture
-- Artificial Intelligence Fundamentals
+🎓 Expected Graduation: **2028**
 
 ---
 
-# 🚀 Currently Learning
+# 🚀 Areas of Interest
 
 - 🤖 Agentic AI
 - 🧠 Large Language Models (LLMs)
 - ⚡ AI Automation
-- 🔗 LangChain
-- 🌐 React.js
-- 🟢 Node.js
-- 🔥 REST APIs
-- 🛢️ MySQL
-- 🧩 Prompt Engineering
-- 📦 Git & GitHub
-
----
-
-# 💼 Featured Projects
-
-## 🔐 CISO Tracker
-
-A security-focused management platform featuring:
-
-- Security workflow automation
-- Incident management
-- Structured reporting
-- Database integration
-- Scalable architecture
-
----
-
-## 💱 Currency Converter
-
-A responsive web application using Exchange Rate API.
-
-### Features
-
-- Live currency exchange rates
-- Responsive UI
-- Real-time conversion
-- Dynamic currency selection
-
----
-
-## 🚧 Upcoming AI Projects
-
-- 🤖 AI Chat Assistant
-- 📄 AI Resume Analyzer
-- 📚 PDF Summarizer
-- 🔍 RAG-based Knowledge Assistant
-- 🧠 Multi-Agent AI System
-- ⚡ AI Workflow Automation Platform
+- 💬 Prompt Engineering
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- 🔐 Secure Software Systems
+- 📊 System Design
+- 📈 Artificial Intelligence
 
 ---
 
@@ -109,46 +58,85 @@ A responsive web application using Exchange Rate API.
 
 ### Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp"/>
 </p>
 
 ### Frontend
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap"/>
 </p>
 
 ### Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🌱 Currently Learning
+
+- Agentic AI Systems
+- LangChain
+- LangGraph
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- React Ecosystem
+- Node.js & Express
+- REST APIs
+- AI Workflow Automation
+- Software Architecture
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 CISO Tracker
+
+Security-focused software for workflow automation, monitoring, structured reporting, and scalable architecture.
+
+### 💱 Currency Converter
+
+Real-time currency conversion application using Exchange Rate API.
+
+### 🤖 AI Projects (Coming Soon)
+
+- AI Chat Assistant
+- Resume Analyzer
+- AI PDF Summarizer
+- Multi-Agent AI System
+- RAG Knowledge Assistant
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf032&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -156,79 +144,70 @@ A responsive web application using Exchange Rate API.
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaf032&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🎯 Career Goals
+# 🎯 Career Vision
 
-✅ Become an AI Engineer
+My goal is to become an **AI Engineer** specializing in **Agentic AI**, **LLM-powered applications**, and **Full Stack AI systems**.
 
-✅ Build production-ready AI systems
+I'm passionate about creating software that can reason, automate tasks, and assist users through intelligent decision-making.
 
-✅ Master Full Stack Development
-
-✅ Contribute to Open Source
-
-✅ Learn Cloud & DevOps
-
-✅ Build intelligent automation platforms
-
-✅ Publish impactful AI projects
+I aspire to contribute to impactful AI products, open-source communities, and next-generation intelligent applications.
 
 ---
 
-# 🌍 Open to Collaborate
+# 🤝 Let's Collaborate
 
-I'm interested in collaborating on:
+I'm always interested in collaborating on:
 
-- 🤖 AI Projects
-- 🌐 Full Stack Applications
-- ⚡ Open Source Contributions
-- 🧠 LLM Applications
-- 🚀 AI Automation Workflows
+- AI Applications
+- Agentic AI Projects
+- Full Stack Development
+- Open Source Software
+- Intelligent Automation
+- Web Technologies
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://github.com/Sadaf032">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sadafkareem@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Quote
+# 💭 Favorite Quote
 
-<p align="center">
-
-> *"Learning today, building tomorrow — one intelligent system at a time."*
-
-</p>
+> **"Great software doesn't just execute instructions—it understands problems and helps solve them."**
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile! ⭐
 
-*"Always learning. Always building. Always improving."*
+Building the future with AI, one project at a time.
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563eb,100:0f172a"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:3B82F6,100:0F172A"/>
 </p>
