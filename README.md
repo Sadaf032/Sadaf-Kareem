@@ -1,392 +1,149 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Sadaf%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sadaf%20Kareem&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🧠+LLM+%26+RAG+Engineer;⚡+AI+Automation+Builder;🎓+Software+Engineering+Student"/>
-</h1>
+<h3 align="center">
+🌐 Full Stack Developer | 🤖 Exploring AI & Agentic Systems | 🎓 Software Engineering Student
+</h3>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadaf032&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/Sadaf032?style=for-the-badge"/>
+Building web applications and exploring intelligent systems through AI, automation, and modern technologies.
+</p>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+%26+Backend+Developer;React.js+Learner;AI+%26+LLM+Explorer;Always+Learning+New+Technologies"/>
 </p>
 
 
 ---
 
-# 👋 Hello, I'm Sadaf Kareem
+# 👩‍💻 About Me
+
+Hi, I'm **Sadaf Kareem** 👋
+
+I am a **Software Engineering student** interested in building modern software solutions and exploring Artificial Intelligence.
+
+My current focus areas:
+
+- 🌐 Full Stack Web Development
+- ⚛️ React.js Frontend Development
+- ⚙️ Node.js Backend Fundamentals
+- 🗄️ Database Management
+- 🤖 AI Applications & Agentic AI Concepts
+- 🧠 LLM and RAG-based Systems
 
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-🎓 Software Engineering Student  
-🌐 Full Stack Developer  
-🤖 Agentic AI Developer  
-
-
-I am passionate about building modern software solutions by combining:
-
-**Full Stack Development + Artificial Intelligence**
-
-
-Currently working on:
-
-- 🌐 Scalable web applications
-- 🤖 AI Agents
-- 🧠 LLM powered applications
-- 🔗 RAG systems
-- ⚙️ Automation workflows
-
-
-My vision is to become an **AI Engineer / AI Architect** and build intelligent systems that solve real-world problems.
-
-
-<br clear="right"/>
-
+I enjoy learning new technologies, building projects, and improving my problem-solving skills through practical development.
 
 ---
 
-# 🚀 My Journey
+# 🛠️ Skills & Technologies
 
 
-```
-Frontend Development
-        ↓
-React.js Applications
-        ↓
-Backend Development
-        ↓
-APIs & Database Engineering
-        ↓
-Full Stack Applications
-        ↓
-LLM Applications
-        ↓
-Agentic AI Systems
-        ↓
-AI Engineer 🚀
-```
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap"/>
+</p>
 
 
----
+## 💻 Programming Languages
 
-# 💻 Full Stack Development
-
-
-## 🎨 Frontend
-
-- HTML5
-- CSS3
-- JavaScript ES6+
-- React.js
-- Bootstrap
-- Responsive Design
-- Component Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+</p>
 
 
-## ⚙️ Backend
+## 🗄️ Database & Tools
 
-- Node.js
-- Express.js
-- REST APIs
-- Server Development
-- Backend Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma"/>
+</p>
 
 
-## 🗄️ Database
+## 🤖 AI / Learning Stack
 
-- MySQL
-- SQL
-- Database Design
-- Data Management
-
-
----
-
-# 🤖 AI Engineering
-
-
-- Agentic AI Development
-- AI Agents
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval Augmented Generation (RAG)
-- AI Automation
-- LangChain
-- LangGraph
 - Gemini API
-- Hugging Face
-- FAISS Vector Search
+- LangChain
+- LangGraph (Learning)
+- RAG Concepts
+- Vector Embeddings
+- FAISS
+- Prompt Engineering
 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 
 ## 🤖 AI Lead Finder Agent
 
+An AI-based project focused on exploring automation workflows and extracting useful business information.
 
-An AI-powered automation system that discovers and processes business leads.
+**Technologies:**
 
-
-### Features
-
-✔ Automated lead searching  
-✔ AI-based information extraction  
-✔ Intelligent workflows  
-✔ Data processing pipeline  
-
-
-**Tech Stack**
-
-```
-Python
-Gemini API
-AI Agents
-Automation
-```
+`Python` `Gemini API` `AI Workflows`
 
 
 ---
-
 
 ## 🧠 Multimodal RAG Chatbot
 
+A Retrieval Augmented Generation project exploring document-based question answering.
 
-An intelligent chatbot that understands documents and visual information.
+Features:
 
-
-### Features
-
-✔ PDF Processing  
-✔ Text Extraction  
-✔ Image Understanding  
-✔ Vision AI Integration  
-✔ Vector Search  
-✔ Context-aware Answers  
+- PDF text extraction
+- Image processing
+- Embeddings generation
+- Similarity search using FAISS
+- AI-based responses
 
 
-**Tech Stack**
+**Technologies:**
 
-```
-Gemini Vision
-LangChain
-FAISS
-HuggingFace
-Embeddings
-```
+`Python` `Gemini API` `FAISS` `Hugging Face`
 
 
 ---
 
+## 🌐 Tour & Travel Website
 
-## 🌐 Tour & Travel Web Application
+A responsive frontend web application built while learning React.js.
 
+Features:
 
-A responsive frontend application for travel experiences.
-
-
-### Features
-
-✔ Modern UI  
-✔ Component Based Architecture  
-✔ Responsive Layout  
+- Component-based UI
+- Responsive design
+- Modern frontend practices
 
 
-**Tech Stack**
+**Technologies:**
 
-```
-React.js
-JavaScript
-CSS
-```
+`React.js` `JavaScript` `CSS`
 
 
 ---
-
 
 ## ⚡ Node.js HTTP Server
 
+A basic backend project to understand Node.js fundamentals.
 
-A backend fundamentals project exploring Node.js core concepts.
+Concepts:
 
-
-### Concepts
-
-✔ HTTP Module  
-✔ File System  
-✔ Server Creation  
-✔ Event Loop Basics  
-
-
-**Tech Stack**
-
-```
-Node.js
-JavaScript
-```
-
-
----
-
-# 🛠️ Tech Stack
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,python,java,cpp,mysql,git,github,vscode,figma"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
+- HTTP module
+- File System
+- Server creation
+- Node.js runtime basics
 
 
 ---
 
 # 📚 Currently Learning
 
-
-```
-🤖 Advanced Agentic AI
-
-🧠 LLM Engineering
-
-🔗 LangGraph
-
-⚙️ AI Automation
-
-🌐 Advanced Backend Development
-
-🏗️ Scalable System Design
-```
-
-
----
-
-# 📊 GitHub Analytics
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf032&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🏆 GitHub Trophy
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sadaf032&theme=tokyonight&no-frame=true"/>
-
-</p>
-
-
----
-
-# 🐍 Contribution Snake Animation
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Sadaf032/Sadaf032/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-
----
-
-# 🌐 Connect With Me
-
-
-<p align="center">
-
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-
-<a href="mailto:sadafkareem@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-
-</p>
-
-
----
-
-# 🎯 Career Goals
-
-
-🚀 Become AI Engineer / AI Architect  
-🤖 Build production-ready AI Agents  
-🌐 Develop scalable Full Stack applications  
-🧠 Create intelligent automation systems  
-🌍 Contribute to open-source projects  
-
-
----
-
-# 💡 Developer Philosophy
-
-
-<p align="center">
-
-<i>
-
-"Building scalable applications today and intelligent systems for tomorrow."
-
-</i>
-
-</p>
-
-
----
-
-<h3 align="center">
-
-⚡ Code • Create • Automate • Innovate 🚀
-
-</h3>
-
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-
-</p>
