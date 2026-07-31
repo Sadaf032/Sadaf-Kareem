@@ -24,8 +24,7 @@
 
 
 ---
-# 👩‍💻 About Me
-
+#  About Me
 
 Hi 👋 I'm **Sadaf Kareem**
 
@@ -38,7 +37,6 @@ I am a Software Engineering student passionate about building modern software so
 
 
 My focus is on creating scalable applications, designing intelligent systems, and continuously learning new technologies to solve real-world problems.
-
 
 
 Currently focusing on:
