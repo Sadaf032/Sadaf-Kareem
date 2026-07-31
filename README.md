@@ -20,13 +20,9 @@
 
 </p>
 
-
 ---
 
-# 👩‍💻 ABOUT ME
-
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# 👩‍💻 About Me
 
 
 Hi 👋 I'm **Sadaf Kareem**
@@ -36,26 +32,140 @@ Hi 👋 I'm **Sadaf Kareem**
 🤖 Agentic AI Developer  
 
 
-I love building applications that combine:
+I am passionate about technology, software development, and Artificial Intelligence.
 
-**Modern Web Technologies + Artificial Intelligence**
-
-Currently exploring:
-
-- Full Stack Development
-- AI Agents
-- Large Language Models
-- RAG Applications
-- AI Automation Systems
+I enjoy building applications, exploring new concepts, and learning how modern technologies can create impactful solutions.
 
 
-My goal is to become an **AI Engineer / AI Architect** and build scalable intelligent products.
+Currently focusing on:
 
-
-<br clear="right"/>
+- 🌐 Full Stack Development
+- 🤖 Agentic AI Systems
+- 🧠 LLM Applications
+- 🔗 RAG Technologies
+- ⚡ AI Automation
 
 
 ---
 
-# 🚀 MY DEVELOPMENT JOURNEY
+# 🛠️ Technologies I Work With
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,cpp,mysql,git,github,vscode,figma&perline=7"/>
+
+</p>
+
+
+---
+
+# 🤖 AI Interests
+
+
+- Agentic AI
+- Large Language Models
+- RAG Systems
+- Prompt Engineering
+- AI Automation
+- Intelligent Applications
+
+
+---
+
+# 📚 Currently Learning
+
+
+```
+🌐 Advanced Full Stack Development
+
+🤖 Agentic AI Engineering
+
+🧠 LLM Applications
+
+⚙️ Backend Development
+
+🏗️ Software Engineering Practices
+```
+
+
+---
+
+# 🎯 Goals
+
+
+🚀 Become an AI-focused Full Stack Developer  
+
+🤖 Build intelligent and useful AI applications  
+
+🌍 Contribute to innovative technology projects  
+
+📚 Keep learning and improving every day  
+
+
+---
+
+# 📊 GitHub Stats
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+---
+
+# 🌐 Connect With Me
+
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+<a href="mailto:sadafkareem@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+
+</p>
+
+
+---
+
+# 💡 Quote
+
+
+<p align="center">
+
+<i>
+"Learning, building, and creating with technology 🚀"
+</i>
+
+</p>
+
+
+<p align="center">
+⭐ Thanks for visiting my profile
+</p>
+
+
+<!-- ================= FOOTER ================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+</p>
+
+
 
