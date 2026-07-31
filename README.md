@@ -1,22 +1,23 @@
-  <!-- ================= HERO ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=210&section=header&text=Sadaf%20Kareem&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Sadaf%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h3 align="center">
-🤖 Agentic AI Developer | 🌐 Full Stack Developer | 🎓 Software Engineering Student
-</h3>
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🎓+Software+Engineering+Student;🧠+LLM+%26+RAG+Applications;🚀+Building+Intelligent+Solutions"/>
+
+</h1>
 
 
 <p align="center">
-Building web applications and AI-powered solutions by combining software engineering with intelligent technologies.
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=Sadaf032&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Agentic+AI+Developer;LLM+%26+RAG+Applications;Software+Engineering+Student;Always+Learning+New+Technologies"/>
+<img src="https://img.shields.io/github/followers/Sadaf032?label=Followers&style=for-the-badge"/>
+
 </p>
 
 
@@ -32,18 +33,18 @@ Hi 👋 I'm **Sadaf Kareem**
 🤖 Agentic AI Developer  
 
 
-I am passionate about building modern web applications and exploring AI-powered solutions.
+I am passionate about building modern web applications and AI-powered solutions.
 
-My interests include:
+My focus areas:
 
 - 🌐 Full Stack Web Development
 - 🤖 Agentic AI Systems
-- 🧠 Large Language Models (LLMs)
+- 🧠 LLM Applications
 - ⚙️ AI Automation Workflows
-- 🔗 Retrieval Augmented Generation (RAG)
+- 🔗 RAG-based Applications
 
 
-I enjoy learning new technologies, building practical projects, and improving my development skills through hands-on experience.
+I enjoy transforming ideas into practical projects, learning new technologies, and improving my development skills through hands-on experience.
 
 
 ---
@@ -58,7 +59,7 @@ React.js Development
           ↓
 Backend Development
           ↓
-APIs & Database Management
+Database & APIs
           ↓
 Full Stack Applications
           ↓
@@ -73,32 +74,36 @@ Agentic AI Systems
 # 💻 FULL STACK DEVELOPMENT
 
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 - HTML5
 - CSS3
-- JavaScript ES6+
+- JavaScript
 - React.js
 - Bootstrap
 - Responsive Design
-- Component-based Development
 
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 - Node.js
 - Express.js
 - REST APIs
-- Server-side Development
 - Backend Fundamentals
 
 
 ## 🗄️ Database
 
 - MySQL
-- SQL Queries
-- Database Design
-- Data Management
+- SQL
+- Database Management
+
+
+## 💻 Programming Languages
+
+- Python
+- Java
+- C++
 
 
 ---
@@ -106,16 +111,17 @@ Agentic AI Systems
 # 🤖 AI & AGENTIC AI
 
 
-Technologies and concepts I work with:
+Working with:
 
+- AI Agents Concepts
+- LLM Applications
+- Prompt Engineering
+- RAG Architecture
 - Gemini API
 - LangChain
 - LangGraph
-- RAG Applications
 - Vector Embeddings
 - FAISS
-- Prompt Engineering
-- AI Automation Concepts
 
 
 ---
@@ -126,17 +132,10 @@ Technologies and concepts I work with:
 ## 🤖 AI Lead Finder Agent
 
 
-An AI-based project focused on automating lead discovery and information processing workflows.
+An AI-based project focused on automating lead discovery and processing workflows.
 
 
-### Features:
-
-✅ Lead information collection  
-✅ AI-based processing  
-✅ Automation workflow  
-
-
-### Technologies:
+**Technologies:**
 
 ```
 Python
@@ -148,23 +147,22 @@ Automation
 
 ---
 
-
-## 🧠 Multimodal RAG Chatbot
-
-
-A Retrieval Augmented Generation project focused on document-based AI question answering.
+## 🧠 Multimodal RAG ChatBot
 
 
-### Features:
-
-✅ PDF text extraction  
-✅ Image processing  
-✅ Embeddings generation  
-✅ Vector similarity search  
-✅ AI-generated responses  
+A Retrieval Augmented Generation project that explores document-based AI question answering.
 
 
-### Technologies:
+Features:
+
+- PDF text extraction
+- Image processing
+- Embeddings generation
+- FAISS similarity search
+- AI-based responses
+
+
+**Technologies:**
 
 ```
 Python
@@ -177,21 +175,20 @@ RAG
 
 ---
 
-
 ## 🌐 Tour & Travel Web Application
 
 
 A responsive frontend application developed using React.js.
 
 
-### Features:
+Features:
 
-✅ Component-based UI  
-✅ Responsive design  
-✅ Modern frontend practices  
+- Component-based architecture
+- Responsive UI
+- Modern frontend practices
 
 
-### Technologies:
+**Technologies:**
 
 ```
 React.js
@@ -202,34 +199,33 @@ CSS
 
 ---
 
-
 ## ⚡ Node.js HTTP Server
 
 
 A backend fundamentals project to understand Node.js core concepts.
 
 
-### Concepts:
+Concepts:
 
 - HTTP Module
 - File System
 - Server Creation
-- Node.js Runtime Basics
+- Node.js Runtime
 
 
 ---
 
-# 🛠️ TECHNOLOGY STACK
+# 🛠️ TECH STACK
 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,python,java,cpp,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,cpp,mysql,git,github,vscode,figma"/>
 
 </p>
 
 
-### AI Tools
+### AI Tools & Frameworks
 
 ```
 Gemini API
@@ -247,7 +243,7 @@ RAG
 
 
 ```
-🤖 Agentic AI Systems
+🤖 Advanced Agentic AI Concepts
 
 🌐 Advanced Full Stack Development
 
@@ -257,53 +253,46 @@ RAG
 
 🔗 RAG Systems
 
-🏗️ Software Design Concepts
+🏗️ Software Design Practices
 ```
 
 
 ---
 
-# 📊 GITHUB PERFORMANCE
+# 📊 GITHUB STATS
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf032&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
----
-
-# 📈 ACTIVITY GRAPH
-
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaf032&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf032&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 ---
 
-# 🎯 CAREER GOALS
+# 🎯 GOALS
 
 
-- 🚀 Become an AI-focused Full Stack Developer
-- 🤖 Build AI-powered applications
-- 🌐 Create useful software solutions
-- 🧠 Explore advanced Agentic AI systems
-- 🌍 Contribute to open-source projects
+🚀 Build impactful Full Stack applications  
+🤖 Develop AI-powered solutions  
+🧠 Create useful Agentic AI systems  
+🌍 Contribute to open-source projects  
+📚 Keep improving technical skills  
 
 
 ---
@@ -334,7 +323,7 @@ RAG
 <p align="center">
 
 <i>
-"Building, learning, and improving one project at a time 🚀"
+"Building, learning, and creating solutions with technology 🚀"
 </i>
 
 </p>
@@ -343,12 +332,7 @@ RAG
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile
-</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
 
-<!-- FOOTER -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
