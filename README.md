@@ -97,32 +97,6 @@ Currently focusing on:
 
 ---
 
-# 🚀 Development Journey
-
-
-```mermaid
-flowchart LR
-
-A[HTML / CSS / JavaScript] --> B[React.js Development]
-
-B --> C[Frontend Applications]
-
-C --> D[Node.js Backend]
-
-D --> E[APIs & Databases]
-
-E --> F[Full Stack Development]
-
-F --> G[AI Applications]
-
-G --> H[LLM & RAG Systems]
-
-H --> I[Agentic AI Systems]
-```
-
-
----
-
 # 🎯 Goals
 
 
@@ -184,6 +158,13 @@ H --> I[Agentic AI Systems]
 
 </p>
 
+
+---
+
+## 📈 ACTIVITY INSIGHTS 
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaf032&theme=react-dark&hide_border=true" /> 
+</p> 
 
 ---
 
