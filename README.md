@@ -9,7 +9,7 @@
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=80&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🧠+LLM+%26+RAG+Systems+Builder;⚡+AI+Automation+Engineer;🎓+Software+Engineering+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=80&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🧠+LLM+%26+RAG+Systems+Builder;⚡+AI+Automation+Engineer;"/>
 
 </h1>
 
