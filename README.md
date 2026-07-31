@@ -1,65 +1,59 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Sadaf%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=230&section=header&text=Sadaf%20Kareem&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h1 align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🎓+Software+Engineering+Student;🧠+LLM+%26+RAG+Applications;🚀+Building+Intelligent+Solutions"/>
-
-</h1>
+<h3 align="center">
+🤖 Agentic AI Developer | 🌐 Full Stack Developer | 🎓 Software Engineering Student
+</h3>
 
 
 <p align="center">
+Creating web applications and exploring AI-powered solutions with modern technologies.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=Sadaf032&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Sadaf032?label=Followers&style=for-the-badge"/>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Development;Agentic+AI+Applications;LLM+%26+RAG+Projects;Building+Real+World+Solutions;Always+Learning"/>
 </p>
 
 
 ---
 
-# 👩‍💻 ABOUT ME
+# 👩‍💻 About Me
 
 
-Hi 👋 I'm **Sadaf Kareem**
+Hello! I'm **Sadaf Kareem** 👋
 
-🎓 Software Engineering Student  
-🌐 Full Stack Developer  
-🤖 Agentic AI Developer  
+I am a **Software Engineering student** passionate about software development and Artificial Intelligence.
 
+My journey focuses on building applications using:
 
-I am passionate about building modern web applications and AI-powered solutions.
-
-My focus areas:
-
-- 🌐 Full Stack Web Development
-- 🤖 Agentic AI Systems
-- 🧠 LLM Applications
-- ⚙️ AI Automation Workflows
-- 🔗 RAG-based Applications
+- 🌐 Full Stack Development
+- 🤖 Agentic AI Applications
+- 🧠 LLM-based Solutions
+- ⚙️ Automation Workflows
+- 🗄️ Database-driven Systems
 
 
-I enjoy transforming ideas into practical projects, learning new technologies, and improving my development skills through hands-on experience.
+I enjoy turning ideas into practical projects, learning new technologies, and improving my problem-solving skills through continuous development.
 
 
 ---
 
-# 🚀 MY DEVELOPMENT JOURNEY
+# 🚀 My Development Journey
 
 
 ```
-HTML / CSS / JavaScript
+HTML + CSS + JavaScript
           ↓
 React.js Development
           ↓
 Backend Development
           ↓
-Database & APIs
+APIs & Databases
           ↓
 Full Stack Applications
           ↓
@@ -71,71 +65,65 @@ Agentic AI Systems
 
 ---
 
-# 💻 FULL STACK DEVELOPMENT
+# 💻 Technical Skills
 
 
-## 🎨 Frontend
+## 🌐 Frontend Development
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-- Responsive Design
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
+</p>
 
 
-## ⚙️ Backend
+## ⚙️ Backend Development
 
-- Node.js
-- Express.js
-- REST APIs
-- Backend Fundamentals
-
-
-## 🗄️ Database
-
-- MySQL
-- SQL
-- Database Management
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
 
 ## 💻 Programming Languages
 
-- Python
-- Java
-- C++
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
+</p>
+
+
+## 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma"/>
+</p>
 
 
 ---
 
-# 🤖 AI & AGENTIC AI
+# 🤖 AI & Agentic AI
 
 
-Working with:
+Currently working with:
 
-- AI Agents Concepts
-- LLM Applications
-- Prompt Engineering
-- RAG Architecture
 - Gemini API
 - LangChain
 - LangGraph
+- RAG Applications
 - Vector Embeddings
 - FAISS
+- Prompt Engineering
+- AI Automation Concepts
 
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 Featured Projects
 
 
 ## 🤖 AI Lead Finder Agent
 
+An AI-powered project focused on exploring automation workflows for collecting and processing business information.
 
-An AI-based project focused on automating lead discovery and processing workflows.
 
-
-**Technologies:**
+**Technologies**
 
 ```
 Python
@@ -147,22 +135,21 @@ Automation
 
 ---
 
-## 🧠 Multimodal RAG ChatBot
+## 🧠 Multimodal RAG Chatbot
+
+A Retrieval Augmented Generation project focused on document understanding using AI.
 
 
-A Retrieval Augmented Generation project that explores document-based AI question answering.
+**Features**
+
+✅ PDF text extraction  
+✅ Image processing  
+✅ Embeddings generation  
+✅ Similarity search  
+✅ AI-generated responses  
 
 
-Features:
-
-- PDF text extraction
-- Image processing
-- Embeddings generation
-- FAISS similarity search
-- AI-based responses
-
-
-**Technologies:**
+**Technologies**
 
 ```
 Python
@@ -177,18 +164,17 @@ RAG
 
 ## 🌐 Tour & Travel Web Application
 
-
-A responsive frontend application developed using React.js.
-
-
-Features:
-
-- Component-based architecture
-- Responsive UI
-- Modern frontend practices
+A React-based frontend project developed to practice modern frontend development.
 
 
-**Technologies:**
+**Features**
+
+✅ Component-based UI  
+✅ Responsive design  
+✅ Modern styling practices  
+
+
+**Technologies**
 
 ```
 React.js
@@ -201,11 +187,10 @@ CSS
 
 ## ⚡ Node.js HTTP Server
 
-
 A backend fundamentals project to understand Node.js core concepts.
 
 
-Concepts:
+**Concepts**
 
 - HTTP Module
 - File System
@@ -215,51 +200,27 @@ Concepts:
 
 ---
 
-# 🛠️ TECH STACK
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,cpp,mysql,git,github,vscode,figma"/>
-
-</p>
-
-
-### AI Tools & Frameworks
-
-```
-Gemini API
-LangChain
-LangGraph
-FAISS
-Hugging Face
-RAG
-```
-
-
----
-
-# 📚 CURRENTLY LEARNING
+# 📚 Currently Learning
 
 
 ```
-🤖 Advanced Agentic AI Concepts
+🤖 Agentic AI Development
 
 🌐 Advanced Full Stack Development
 
-⚙️ Backend Architecture
-
 🧠 LLM Applications
 
-🔗 RAG Systems
+🔗 RAG Architectures
 
-🏗️ Software Design Practices
+⚙️ Backend Engineering
+
+🏗️ Software Design Concepts
 ```
 
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GitHub Statistics
 
 
 <p align="center">
@@ -285,19 +246,19 @@ RAG
 
 ---
 
-# 🎯 GOALS
+# 🎯 Goals
 
 
-🚀 Build impactful Full Stack applications  
-🤖 Develop AI-powered solutions  
-🧠 Create useful Agentic AI systems  
+🚀 Become an AI-focused Full Stack Developer  
+🤖 Build useful AI-powered applications  
+🌐 Create scalable software solutions  
+🧠 Explore advanced Agentic AI systems  
 🌍 Contribute to open-source projects  
-📚 Keep improving technical skills  
 
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🌐 Connect With Me
 
 
 <p align="center">
@@ -311,28 +272,23 @@ RAG
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
 </p>
 
 
 ---
 
-# 💡 DEVELOPER PHILOSOPHY
+# 💡 Developer Philosophy
 
 
 <p align="center">
 
 <i>
-"Building, learning, and creating solutions with technology 🚀"
+"Build. Learn. Improve. Repeat. 🚀"
 </i>
 
 </p>
 
 
----
-
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
