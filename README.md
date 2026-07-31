@@ -1,55 +1,53 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Sadaf%20Kareem&fontSize=55&fontAlignY=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Sadaf%20Kareem&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<!-- ================= TYPING ================= -->
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=800&height=70&lines=🤖+Agentic+AI+Developer;🧠+LLM+%26+RAG+Systems+Builder;⚡+Full+Stack+Developer;🎓+Software+Engineering+Student;🚀+Building+Intelligent+Automation"/>
-</h1>
+<h3 align="center">
+🌐 Full Stack Developer | 🤖 Agentic AI Developer | 🎓 Software Engineering Student
+</h3>
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sadaf032&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/Sadaf032?style=for-the-badge&color=blue"/>
+Building modern web applications and exploring intelligent AI-powered solutions.
 </p>
 
 
-<br>
-
-
-<!-- ================= ABOUT ================= -->
-
-
-## 👩‍💻 About Me
-
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx/3oKIPsx2VAYAgEHC12/giphy.gif">
-
-
-I'm **Sadaf Kareem**, a Software Engineering student passionate about creating intelligent systems.
-
-Currently focused on:
-
-✨ Agentic AI  
-✨ Large Language Models  
-✨ Retrieval Augmented Generation  
-✨ AI Automation  
-✨ Full Stack Development  
-
-
-My mission:
-
-> Build AI systems that can understand, reason, and automate real-world problems.
-
-
-<br clear="right"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Development;React.js+%26+Node.js;AI+Applications;LLM+%26+RAG+Systems;Agentic+AI+Journey"/>
+</p>
 
 
 ---
 
-# 🧠 AI & DEVELOPMENT JOURNEY
+# 👩‍💻 About Me
+
+
+Hi 👋 I'm **Sadaf Kareem**
+
+🎓 Software Engineering Student  
+🌐 Full Stack Developer  
+🤖 Agentic AI Developer  
+
+
+I am passionate about building software applications and exploring Artificial Intelligence.
+
+My focus areas include:
+
+- 🌐 Full Stack Web Development
+- ⚛️ React.js Applications
+- ⚙️ Backend Development
+- 🗄️ Database-driven Applications
+- 🤖 AI-powered Applications
+- 🧠 LLM & RAG Systems
+
+
+I love learning through projects, solving problems, and experimenting with new technologies to build meaningful solutions.
+
+
+---
+
+# 🚀 My Journey
 
