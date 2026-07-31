@@ -24,23 +24,21 @@
 
 
 ---
-
-# About Me
+# 👩‍💻 About Me
 
 
 Hi 👋 I'm **Sadaf Kareem**
 
-🎓 Undergraduate in Software Engineering at MUET 
-
+🎓 Software Engineering Undergraduate at MUET  
 🌐 Full Stack Developer  
-
 🤖 Agentic AI Developer  
 
 
-I am passionate about technology, software development, and Artificial Intelligence.
+I am a Software Engineering student passionate about building modern software solutions and exploring the intersection of **Web Development and Artificial Intelligence**.
 
 
-I enjoy building applications, exploring new concepts, and learning how modern technologies can create impactful solutions.
+My focus is on creating scalable applications, designing intelligent systems, and continuously learning new technologies to solve real-world problems.
+
 
 
 Currently focusing on:
@@ -51,6 +49,7 @@ Currently focusing on:
 - 🔗 RAG Technologies
 - ⚡ AI Automation
 
+I enjoy transforming ideas into practical solutions, experimenting with emerging technologies, and growing as a developer through continuous learning and innovation.
 
 ---
 
