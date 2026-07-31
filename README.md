@@ -1,28 +1,32 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Sadaf%20Kareem&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Sadaf%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h3 align="center">
-🌐 Full Stack Developer | 🤖 Agentic AI Developer | 🎓 Software Engineering Student
-</h3>
+<!-- ================= TYPING ANIMATION ================= -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=80&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🧠+LLM+%26+RAG+Systems+Builder;⚡+AI+Automation+Engineer;🎓+Software+Engineering+Student"/>
+</h1>
 
 
 <p align="center">
-Building modern web applications and exploring intelligent AI-powered solutions.
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=Sadaf032&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Full+Stack+Development;React.js+%26+Node.js;AI+Applications;LLM+%26+RAG+Systems;Agentic+AI+Journey"/>
+<img src="https://img.shields.io/github/followers/Sadaf032?label=Followers&style=for-the-badge&color=blue"/>
+
 </p>
 
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 ABOUT ME
+
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 Hi 👋 I'm **Sadaf Kareem**
@@ -32,22 +36,27 @@ Hi 👋 I'm **Sadaf Kareem**
 🤖 Agentic AI Developer  
 
 
-I am passionate about building software applications and exploring Artificial Intelligence.
+I love building applications that combine:
 
-My focus areas include:
+**Modern Web Technologies + Artificial Intelligence**
 
-- 🌐 Full Stack Web Development
-- ⚛️ React.js Applications
-- ⚙️ Backend Development
-- 🗄️ Database-driven Applications
-- 🤖 AI-powered Applications
-- 🧠 LLM & RAG Systems
+Currently exploring:
+
+- Full Stack Development
+- AI Agents
+- Large Language Models
+- RAG Applications
+- AI Automation Systems
 
 
-I love learning through projects, solving problems, and experimenting with new technologies to build meaningful solutions.
+My goal is to become an **AI Engineer / AI Architect** and build scalable intelligent products.
+
+
+<br clear="right"/>
 
 
 ---
 
-# 🚀 My Journey
+# 🚀 MY DEVELOPMENT JOURNEY
+
 
