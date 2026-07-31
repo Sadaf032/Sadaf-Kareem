@@ -25,12 +25,12 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 
 Hi 👋 I'm **Sadaf Kareem**
 
-🎓 Software Engineering Student  
+🎓 Undergraduate in Software Engineering (28th Batch) 
 🌐 Full Stack Developer  
 🤖 Agentic AI Developer  
 
@@ -191,7 +191,7 @@ H --> I[Agentic AI Systems]
 <p align="center">
 
 <i>
-"Building intelligent solutions by combining creativity, code, and artificial intelligence."
+"Transforming ideas into intelligent solutions through code, creativity, and continuous learning."
 </i>
 
 </p>
