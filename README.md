@@ -53,7 +53,9 @@ Currently focusing on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,cpp,mysql,git,github,vscode,figma&perline=7"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,cpp,mysql,git,github,vscode,figma&perline=20"/>
 
 </p>
 
@@ -144,20 +146,39 @@ Currently focusing on:
 
 ---
 
-# 💡 Quote
+# 🚀 Development Journey
 
+
+```mermaid
+flowchart LR
+
+A[HTML / CSS / JavaScript] --> B[React.js Development]
+
+B --> C[Frontend Applications]
+
+C --> D[Node.js Backend]
+
+D --> E[APIs & Databases]
+
+E --> F[Full Stack Development]
+
+F --> G[AI Applications]
+
+G --> H[LLM & RAG Systems]
+
+H --> I[Agentic AI Systems]
+
+
+---
+
+# 💡 Developer Philosophy
 
 <p align="center">
 
 <i>
-"Learning, building, and creating with technology 🚀"
+"Building the future with code, intelligence, and innovation — one solution at a time."
 </i>
 
-</p>
-
-
-<p align="center">
-⭐ Thanks for visiting my profile
 </p>
 
 
