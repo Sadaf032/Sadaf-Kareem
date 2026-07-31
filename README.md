@@ -1,59 +1,65 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=230&section=header&text=Sadaf%20Kareem&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Sadaf%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h3 align="center">
-🤖 Agentic AI Developer | 🌐 Full Stack Developer | 🎓 Software Engineering Student
-</h3>
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🎓+Software+Engineering+Student;🧠+LLM+%26+RAG+Applications;🚀+Building+Intelligent+Solutions"/>
+
+</h1>
 
 
 <p align="center">
-Creating web applications and exploring AI-powered solutions with modern technologies.
-</p>
 
+<img src="https://komarev.com/ghpvc/?username=Sadaf032&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Development;Agentic+AI+Applications;LLM+%26+RAG+Projects;Building+Real+World+Solutions;Always+Learning"/>
+<img src="https://img.shields.io/github/followers/Sadaf032?label=Followers&style=for-the-badge"/>
+
 </p>
 
 
 ---
 
-# 👩‍💻 About Me
+# 👩‍💻 ABOUT ME
 
 
-Hello! I'm **Sadaf Kareem** 👋
+Hi 👋 I'm **Sadaf Kareem**
 
-I am a **Software Engineering student** passionate about software development and Artificial Intelligence.
-
-My journey focuses on building applications using:
-
-- 🌐 Full Stack Development
-- 🤖 Agentic AI Applications
-- 🧠 LLM-based Solutions
-- ⚙️ Automation Workflows
-- 🗄️ Database-driven Systems
+🎓 Software Engineering Student  
+🌐 Full Stack Developer  
+🤖 Agentic AI Developer  
 
 
-I enjoy turning ideas into practical projects, learning new technologies, and improving my problem-solving skills through continuous development.
+I am passionate about building modern web applications and AI-powered solutions.
+
+My focus areas:
+
+- 🌐 Full Stack Web Development
+- 🤖 Agentic AI Systems
+- 🧠 LLM Applications
+- ⚙️ AI Automation Workflows
+- 🔗 RAG-based Applications
+
+
+I enjoy transforming ideas into practical projects, learning new technologies, and improving my development skills through hands-on experience.
 
 
 ---
 
-# 🚀 My Development Journey
+# 🚀 MY DEVELOPMENT JOURNEY
 
 
 ```
-HTML + CSS + JavaScript
+HTML / CSS / JavaScript
           ↓
 React.js Development
           ↓
 Backend Development
           ↓
-APIs & Databases
+Database & APIs
           ↓
 Full Stack Applications
           ↓
@@ -65,65 +71,71 @@ Agentic AI Systems
 
 ---
 
-# 💻 Technical Skills
+# 💻 FULL STACK DEVELOPMENT
 
 
-## 🌐 Frontend Development
+## 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"/>
-</p>
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Responsive Design
 
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+- Node.js
+- Express.js
+- REST APIs
+- Backend Fundamentals
+
+
+## 🗄️ Database
+
+- MySQL
+- SQL
+- Database Management
 
 
 ## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
-</p>
-
-
-## 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma"/>
-</p>
+- Python
+- Java
+- C++
 
 
 ---
 
-# 🤖 AI & Agentic AI
+# 🤖 AI & AGENTIC AI
 
 
-Currently working with:
+Working with:
 
+- AI Agents Concepts
+- LLM Applications
+- Prompt Engineering
+- RAG Architecture
 - Gemini API
 - LangChain
 - LangGraph
-- RAG Applications
 - Vector Embeddings
 - FAISS
-- Prompt Engineering
-- AI Automation Concepts
 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 
 ## 🤖 AI Lead Finder Agent
 
-An AI-powered project focused on exploring automation workflows for collecting and processing business information.
+
+An AI-based project focused on automating lead discovery and processing workflows.
 
 
-**Technologies**
+**Technologies:**
 
 ```
 Python
@@ -135,21 +147,22 @@ Automation
 
 ---
 
-## 🧠 Multimodal RAG Chatbot
-
-A Retrieval Augmented Generation project focused on document understanding using AI.
+## 🧠 Multimodal RAG ChatBot
 
 
-**Features**
-
-✅ PDF text extraction  
-✅ Image processing  
-✅ Embeddings generation  
-✅ Similarity search  
-✅ AI-generated responses  
+A Retrieval Augmented Generation project that explores document-based AI question answering.
 
 
-**Technologies**
+Features:
+
+- PDF text extraction
+- Image processing
+- Embeddings generation
+- FAISS similarity search
+- AI-based responses
+
+
+**Technologies:**
 
 ```
 Python
@@ -164,17 +177,18 @@ RAG
 
 ## 🌐 Tour & Travel Web Application
 
-A React-based frontend project developed to practice modern frontend development.
+
+A responsive frontend application developed using React.js.
 
 
-**Features**
+Features:
 
-✅ Component-based UI  
-✅ Responsive design  
-✅ Modern styling practices  
+- Component-based architecture
+- Responsive UI
+- Modern frontend practices
 
 
-**Technologies**
+**Technologies:**
 
 ```
 React.js
@@ -187,10 +201,11 @@ CSS
 
 ## ⚡ Node.js HTTP Server
 
+
 A backend fundamentals project to understand Node.js core concepts.
 
 
-**Concepts**
+Concepts:
 
 - HTTP Module
 - File System
@@ -200,27 +215,51 @@ A backend fundamentals project to understand Node.js core concepts.
 
 ---
 
-# 📚 Currently Learning
+# 🛠️ TECH STACK
 
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,python,java,cpp,mysql,git,github,vscode,figma"/>
+
+</p>
+
+
+### AI Tools & Frameworks
 
 ```
-🤖 Agentic AI Development
-
-🌐 Advanced Full Stack Development
-
-🧠 LLM Applications
-
-🔗 RAG Architectures
-
-⚙️ Backend Engineering
-
-🏗️ Software Design Concepts
+Gemini API
+LangChain
+LangGraph
+FAISS
+Hugging Face
+RAG
 ```
 
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 CURRENTLY LEARNING
+
+
+```
+🤖 Advanced Agentic AI Concepts
+
+🌐 Advanced Full Stack Development
+
+⚙️ Backend Architecture
+
+🧠 LLM Applications
+
+🔗 RAG Systems
+
+🏗️ Software Design Practices
+```
+
+
+---
+
+# 📊 GITHUB STATS
 
 
 <p align="center">
@@ -246,19 +285,19 @@ A backend fundamentals project to understand Node.js core concepts.
 
 ---
 
-# 🎯 Goals
+# 🎯 GOALS
 
 
-🚀 Become an AI-focused Full Stack Developer  
-🤖 Build useful AI-powered applications  
-🌐 Create scalable software solutions  
-🧠 Explore advanced Agentic AI systems  
+🚀 Build impactful Full Stack applications  
+🤖 Develop AI-powered solutions  
+🧠 Create useful Agentic AI systems  
 🌍 Contribute to open-source projects  
+📚 Keep improving technical skills  
 
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 
 <p align="center">
@@ -272,23 +311,28 @@ A backend fundamentals project to understand Node.js core concepts.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+
 </p>
 
 
 ---
 
-# 💡 Developer Philosophy
+# 💡 DEVELOPER PHILOSOPHY
 
 
 <p align="center">
 
 <i>
-"Build. Learn. Improve. Repeat. 🚀"
+"Building, learning, and creating solutions with technology 🚀"
 </i>
 
 </p>
 
 
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer"/>
+
 </p>
