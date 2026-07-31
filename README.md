@@ -30,8 +30,10 @@
 
 Hi 👋 I'm **Sadaf Kareem**
 
-🎓 Undergraduate in Software Engineering (28th Batch) 
+🎓 Undergraduate in Software Engineering at MUET 
+
 🌐 Full Stack Developer  
+
 🤖 Agentic AI Developer  
 
 
