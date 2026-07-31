@@ -1,206 +1,61 @@
-<!-- ================= HERO ================= -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=210&section=header&text=Sadaf%20Kareem&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=230&section=header&text=Sadaf%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 
-<h3 align="center">
-🤖 Agentic AI Developer | 🌐 Full Stack Developer | 🎓 Software Engineering Student
-</h3>
+<!-- ================= TYPING ANIMATION ================= -->
 
-
-<p align="center">
-Building web applications and exploring AI-powered solutions through modern technologies.
-</p>
-
-
----
-
-## 👩‍💻 PROFILE SUMMARY
-
-I am a Software Engineering student passionate about **Full Stack Development and Artificial Intelligence**.
-
-I enjoy building practical projects, exploring new technologies, and creating solutions that combine software development with AI.
-
-Currently focusing on:
-
-- 🌐 Full Stack Web Development
-- 🤖 Agentic AI Applications
-- 🧠 LLM & RAG-based Systems
-- ⚙️ AI Automation Workflows
-- 🗄️ Database-driven Applications
-
-
----
-
-## 🧠 CORE SKILLS
-
-### 🌐 Web Development
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- REST APIs
-
-
-### 💻 Programming
-
-- Python
-- Java
-- C++
-
-
-### 🗄️ Database
-
-- MySQL
-- SQL
-- Database Management
-
-
-### 🤖 AI & Automation
-
-- Gemini API
-- LangChain
-- LangGraph
-- RAG Concepts
-- Vector Embeddings
-- FAISS
-- Prompt Engineering
-
-
----
-
-# 🚀 FEATURED PROJECTS
-
-
-## 🤖 AI Lead Finder Agent
-
-An AI-based project focused on automating lead discovery and information processing.
-
-### Highlights:
-
-- Business information extraction
-- AI-based workflow automation
-- Data processing pipeline
-
-**Tech Stack:**
-
-- Python
-- Gemini API
-- AI Workflows
-- Automation
-
-# 🛠️ TECH STACK
-
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,python,java,cpp,mysql,git,github,vscode,figma" />
-</p>
-
----
-
-# 📚 CURRENTLY LEARNING
-
-- 🤖 Agentic AI Systems
-- 🌐 Advanced Full Stack Development
-- ⚙️ Backend Development
-- 🧠 LLM Applications
-- 🔗 RAG Architectures
-
-
-
----
-
-# 📊 GITHUB PERFORMANCE
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&height=80&lines=🤖+Agentic+AI+Developer;🌐+Full+Stack+Developer;🧠+LLM+%26+RAG+Systems+Builder;⚡+AI+Automation+Engineer;🎓+Software+Engineering+Student"/>
+</h1>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadaf032&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://komarev.com/ghpvc/?username=Sadaf032&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadaf032&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadaf032&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://img.shields.io/github/followers/Sadaf032?label=Followers&style=for-the-badge&color=blue"/>
 
 </p>
 
 
 ---
 
-# 📈 ACTIVITY INSIGHTS
+# 👩‍💻 ABOUT ME
 
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadaf032&theme=react-dark&hide_border=true"/>
-
-</p>
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
----
+Hi 👋 I'm **Sadaf Kareem**
 
-# 🎯 CAREER GOALS
-
-
-- 🚀 Become an AI-focused Full Stack Developer
-- 🤖 Build useful AI-powered applications
-- 🌐 Develop scalable software solutions
-- 🧠 Explore advanced Agentic AI systems
-- 🌍 Contribute to open-source projects
+🎓 Software Engineering Student  
+🌐 Full Stack Developer  
+🤖 Agentic AI Developer  
 
 
----
+I love building applications that combine:
 
-# 🌐 CONNECT WITH ME
+**Modern Web Technologies + Artificial Intelligence**
 
+Currently exploring:
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-<a href="mailto:sadafkareem@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- Full Stack Development
+- AI Agents
+- Large Language Models
+- RAG Applications
+- AI Automation Systems
 
 
-</p>
+My goal is to become an **AI Engineer / AI Architect** and build scalable intelligent products.
+
+
+<br clear="right"/>
 
 
 ---
 
-# 💡 DEVELOPER PHILOSOPHY
+# 🚀 MY DEVELOPMENT JOURNEY
 
-
-<p align="center">
-
-<i>
-"Building, learning, and improving one project at a time 🚀"
-</i>
-
-</p>
-
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile
-</p>
-
-
-<!-- FOOTER -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
